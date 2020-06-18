@@ -38,12 +38,13 @@ padding-top: 63px;
 }
 
 .header{
-	padding-bottom: 70px;
+	margin-bottom: 70px;
 }
 
 .wrapper{
 	display: flex;
 	justify-content: space-around;
+	align-items:center;
 }
 
 .offer{
@@ -150,6 +151,7 @@ padding-top: 63px;
 	border: 0;
 	margin: 10px;
 	cursor: pointer;
+	width: 340px;
 }
 .footer{
 	background-color: #164d7a;
